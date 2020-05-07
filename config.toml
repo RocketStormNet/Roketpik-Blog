@@ -1,0 +1,32 @@
+baseURL = "http://roketpik.com/blog"
+languageCode = "en-us"
+title = "Roketpik Blog"
+theme = "hugo-notepadium"
+copyright = "©2020 Artur Shamsutdinov."
+
+enableRobotsTXT = true
+
+[params]
+style = "dark"
+dateFormat = "Monday, January 2, 2006"
+
+# custom menu
+
+[[params.nav.custom]]
+title = "Portfolio"
+url = "http://roketpik.com"
+
+[[params.nav.custom]]
+title = "Instagram"
+url = "https://instagram.com/roketpik"
+
+[[params.nav.custom]]
+title = "VK"
+url = "https://vk.com/rocketstorm"
+
+[[params.nav.custom]]
+title = "Email"
+url = "mailto:mail@roketpik.com"
+
+[params.assets]
+css = ["css/font.css"]

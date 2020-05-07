@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Nero";
+  src: url("http://roketpik.com/assets/webfonts/Nero.eot?#iefix") format("embedded-opentype"),
+    url("http://roketpik.com/assets/webfonts/Nero.woff") format("woff"),
+    url("http://roketpik.com/assets/webfonts/Nero.ttf") format("truetype"),
+    url("http://roketpik.com/assets/webfonts/Nero.svg#Nero") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.site.name {
+  font-family: "Nero";
+  font-size: 16pt;
+}
