@@ -1,6 +1,7 @@
 baseURL = "http://roketpik.com/blog"
 languageCode = "en-us"
 title = "Roketpik Blog"
+slogan = "Photographer"
 theme = "hugo-notepadium"
 copyright = "©2020 Artur Shamsutdinov."
 
