@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Artur Shamsutdinov.</copyright>
-    <lastBuildDate>Fri, 08 May 2020 18:08:01 +0500</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 22:26:02 +0500</lastBuildDate>
     
         <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>/blog/posts/</link>
-      <pubDate>Fri, 08 May 2020 18:08:01 +0500</pubDate>
+      <pubDate>Sun, 10 May 2020 22:26:02 +0500</pubDate>
       
       <guid>/blog/posts/</guid>
       <description></description>
