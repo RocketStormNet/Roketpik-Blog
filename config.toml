@@ -1,4 +1,4 @@
-baseURL = "http://roketpik.com/blog"
+baseURL = "https://roketpik.com/blog"
 languageCode = "en-us"
 title = "Roketpik Blog"
 slogan = "Photographer"
@@ -15,7 +15,7 @@ dateFormat = "Monday, January 2, 2006"
 
 [[params.nav.custom]]
 title = "Portfolio"
-url = "http://roketpik.com"
+url = "https://roketpik.com"
 
 [[params.nav.custom]]
 title = "Instagram"
@@ -23,7 +23,7 @@ url = "https://instagram.com/roketpik"
 
 [[params.nav.custom]]
 title = "VK"
-url = "https://vk.com/rocketstorm"
+url = "https://vk.com/rocketpik"
 
 [[params.nav.custom]]
 title = "Email"

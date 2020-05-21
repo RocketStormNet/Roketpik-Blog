@@ -6,6 +6,6 @@ draft: true
 
 New image for Pixabay Photostock!
 
-![](http://roketpik.com/blog/photos/code.jpg)
+![](https://roketpik.com/blog/photos/code.jpg)
 
 [Download HD at Pixabay](https://pixabay.com/ru/photos/code-programming-javascript-5113374/)
