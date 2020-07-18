@@ -10,6 +10,8 @@ enableRobotsTXT = true
 [params]
 style = "dark"
 dateFormat = "Monday, January 2, 2006"
+license = "CC BY 4.0"
+fullRss = true
 
 # custom menu
 
